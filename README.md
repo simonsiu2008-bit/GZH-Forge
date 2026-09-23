@@ -79,8 +79,25 @@ gzh-forge/
 │   └── publish.py      # 图床转存 + 封面压缩 + 推草稿箱
 ├── samples/            # 示例稿件
 ├── demo/               # 渲染效果预览
-└── assets/             # 示例配图
+├── assets/             # 示例配图
+└── tools/
+    └── deploy_github.py # 通过 GitHub REST API 部署/更新本仓库
 ```
+
+## 部署 / 更新到 GitHub
+
+`tools/deploy_github.py` 走 GitHub REST API 推送（不依赖 `git push`，适用于
+`github.com:443` 被网络策略拦截的环境）：
+
+```bash
+export GH_PAT=github_pat_xxx   # Fine-grained Token，需 Contents: Read and write
+python3 tools/deploy_github.py  # 自动建仓（或复用）+ 上传全部文件 + 建提交
+```
+
+可选环境变量：`REPO_NAME`（默认 `GZH-Forge`）、`REPO_PRIVATE`（默认 `false`）。
+
+> **网络排障提示**：若沙箱内 `github.com` 解析异常但 `api.github.com` 可通，
+> 说明是 DNS 被污染 —— 在 hosts 里把域名指到 GitHub 真实 IP 即可绕过。
 
 ## License
 
