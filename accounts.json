@@ -1,0 +1,20 @@
+{
+  "crossborder": {
+    "name": "跨境号",
+    "theme": "crossborder",
+    "persona": "industry-observer",
+    "framework": "深度分析",
+    "content_type": "跨境电商 / 选品与行情",
+    "wechat_env": "envs/crossborder.env",
+    "notes": "旧版本管线保持独立运行，本档案仅供 GZH-Forge 使用"
+  },
+  "photography": {
+    "name": "拍照号",
+    "theme": "photography",
+    "persona": "warm-editor",
+    "framework": "清单 / 教程",
+    "content_type": "摄影教程 / 审美随笔",
+    "wechat_env": "envs/photography.env",
+    "notes": "旧版本管线保持独立运行，本档案仅供 GZH-Forge 使用"
+  }
+}

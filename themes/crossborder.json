@@ -1,0 +1,23 @@
+{
+  "name": "跨境蓝 · crossborder",
+  "section": "max-width:677px;margin:0 auto;padding:8px 4px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;color:#333333;font-size:15px;line-height:1.9;letter-spacing:0.5px;word-break:break-word;",
+  "h1": "margin:32px 0 20px;font-size:22px;line-height:1.4;color:#0B3D91;font-weight:700;text-align:center;",
+  "h2": "margin:28px 0 14px;font-size:18px;color:#0B3D91;font-weight:700;border-left:4px solid #1E88E5;padding-left:10px;",
+  "h3": "margin:22px 0 10px;font-size:16px;color:#1565C0;font-weight:600;",
+  "p": "margin:0 0 16px;font-size:15px;color:#333333;line-height:1.9;text-align:justify;",
+  "strong": "color:#0B3D91;",
+  "em": "color:#1565C0;",
+  "blockquote": "margin:20px 0;padding:12px 16px;background:#EDF4FF;border-left:4px solid #1E88E5;color:#41556B;font-size:14px;border-radius:4px;",
+  "ul": "margin:0 0 16px;padding-left:22px;",
+  "ol": "margin:0 0 16px;padding-left:22px;",
+  "li": "margin:6px 0;font-size:15px;color:#333333;line-height:1.8;",
+  "codeBlock": "margin:18px 0;padding:14px 16px;background:#0F172A;color:#E2E8F0;border-radius:8px;overflow-x:auto;font-family:Consolas,Menlo,monospace;font-size:13px;line-height:1.6;white-space:pre;",
+  "inlineCode": "background:#EDF4FF;color:#0B3D91;padding:2px 6px;border-radius:4px;font-family:Consolas,Menlo,monospace;font-size:13px;",
+  "img": "max-width:100%;border-radius:8px;margin:8px 0;display:block;",
+  "link": "color:#1E88E5;border-bottom:1px dashed #1E88E5;",
+  "footnoteSup": "color:#1E88E5;font-size:11px;",
+  "footnoteItem": "margin:2px 0;font-size:12px;color:#888888;line-height:1.6;",
+  "footnoteBox": "margin:24px 0 0;padding:10px 14px;background:#F7F9FC;border-radius:6px;",
+  "hr": "border:none;border-top:1px solid #E3E8EF;margin:28px 0;",
+  "kicker": "display:inline-block;padding:3px 10px;background:#0B3D91;color:#FFFFFF;font-size:12px;border-radius:999px;letter-spacing:1px;"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "留白禅意 · photography",
+  "section": "max-width:677px;margin:0 auto;padding:8px 4px;font-family:'Songti SC','Noto Serif SC','STSong',serif;color:#3D3D3D;font-size:15px;line-height:2.1;letter-spacing:1px;word-break:break-word;",
+  "h1": "margin:36px 0 24px;font-size:22px;line-height:1.5;color:#2B2B2B;font-weight:600;text-align:center;letter-spacing:2px;",
+  "h2": "margin:30px 0 16px;font-size:17px;color:#8A6D3B;font-weight:600;text-align:center;letter-spacing:3px;",
+  "h3": "margin:24px 0 10px;font-size:15px;color:#A08650;font-weight:600;letter-spacing:1px;",
+  "p": "margin:0 0 20px;font-size:15px;color:#3D3D3D;line-height:2.1;text-align:justify;",
+  "strong": "color:#8A6D3B;font-weight:600;",
+  "em": "color:#A08650;",
+  "blockquote": "margin:24px 0;padding:14px 18px;background:#FAF8F3;border-left:2px solid #A08650;color:#6B6455;font-size:14px;letter-spacing:1px;",
+  "ul": "margin:0 0 20px;padding-left:22px;",
+  "ol": "margin:0 0 20px;padding-left:22px;",
+  "li": "margin:8px 0;font-size:15px;color:#3D3D3D;line-height:2.0;",
+  "codeBlock": "margin:20px 0;padding:14px 16px;background:#F5F3EE;color:#4A4538;border-radius:4px;overflow-x:auto;font-family:Consolas,Menlo,monospace;font-size:13px;line-height:1.6;white-space:pre;",
+  "inlineCode": "background:#F5F3EE;color:#8A6D3B;padding:2px 6px;border-radius:4px;font-family:Consolas,Menlo,monospace;font-size:13px;",
+  "img": "max-width:100%;margin:12px auto 20px;display:block;",
+  "link": "color:#A08650;border-bottom:1px solid #D8C9A8;",
+  "footnoteSup": "color:#A08650;font-size:11px;",
+  "footnoteItem": "margin:2px 0;font-size:12px;color:#999999;line-height:1.7;",
+  "footnoteBox": "margin:28px 0 0;padding:10px 14px;background:#FAF8F3;border-radius:4px;",
+  "hr": "border:none;border-top:1px dashed #D8C9A8;margin:32px auto;width:120px;",
+  "kicker": "display:inline-block;padding:3px 12px;border:1px solid #A08650;color:#A08650;font-size:12px;border-radius:999px;letter-spacing:2px;"
+}
